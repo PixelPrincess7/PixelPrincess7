@@ -1,4 +1,7 @@
 ## Hola, soy Claudia👋
+## Sobre Mí
+🌟 **Maga del Código**  
+Desarrolladora Front-End en GitHub. 🚀 Transformo ideas en experiencias digitales. ¡Listos para crear juntos! 💻✨
 
 <!--
 **PixelPrincess7/PixelPrincess7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
