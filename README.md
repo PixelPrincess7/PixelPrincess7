@@ -1,5 +1,5 @@
 ## Hola, soy Claudia👋
-
+![Banner](https://www.canva.com/design/DAGdQsA4ax4/CNTXnEHIgcxsQksrCxXZgQ/edit?utm_content=DAGdQsA4ax4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <!--
 **PixelPrincess7/PixelPrincess7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
